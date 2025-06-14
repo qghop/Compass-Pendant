@@ -1,0 +1,8 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+BT1,1,Battery_Cell,BatteryHolder_Keystone_3034_1x20mm,-,3034TR,,smt,Single-cell battery,
+C1,1,2.2µF,C_01005_0402Metric_Pad0.57x0.30mm_HandSolder,0402,CL05A225MQ5NSNC,,smt,Unpolarized capacitor,
+"D1, D10, D11, D12, D13, D14, D15, D16, D2, D3, D4, D5, D6, D7, D8, D9",16,LED,LED_01005_0402Metric_Pad0.57x0.30mm_HandSolder,0402,BL-HUB37A-AV-TRB,,smt,Light emitting diode,1=K 2=A
+"R1, R2, R3",3,10KΩ,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,0402,0402WGF1002TCE,,smt,Resistor,
+"R10, R11, R12, R4, R5, R6, R7, R8, R9",9,120Ω,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,0402,0402WGF1200TCE,,smt,Resistor,
+U2,1,MMC5633NJL,WLP-4_0.86x0.86mm_P0.4mm,WLP-4(0.9x0.9),MMC5633NJL,,smt,"3-axis AMR Magnetometer, 30 G, I2C & I3C  Interface, 2mG RMS, WLP-4",
+U3,1,ATmega328P-M,QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,VQFN-32_5x5,ATMEGA328P-MU,,smt,"20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, QFN-32",
