@@ -15,6 +15,8 @@ The whole project was heavily inspired by the work of [Mitxela](https://mitxela.
 
 ### V1
 
+[![Working Compass Video](https://img.youtube.com/vi/5i10F70vsIM/0.jpg)](https://www.youtube.com/watch?v=5i10F70vsIM)
+
 ![Top View](<Media/IRL Top View.jpg>)
 
 ![Bottom View](<Media/IRL Bottom View.jpg>)
@@ -28,6 +30,8 @@ The whole project was heavily inspired by the work of [Mitxela](https://mitxela.
 ![PCB](<Media/v1 PCB.png>)
 
 ![3D Model](<Media/v1 3D.png>)
+
+[![Programming Video](https://img.youtube.com/vi/YMhp7EAuIT4/0.jpg)](https://www.youtube.com/watch?v=YMhp7EAuIT4)
 
 ## V1 Successes
 
