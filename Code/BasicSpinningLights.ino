@@ -166,7 +166,7 @@ void turnOnD16() {
 
 // Example usage function
 void cycleThroughAllLEDs() {
-  int delayTime = 200;
+  int delayTime = 50;
 
   turnOnD7(); delay(delayTime);
   turnOnD9(); delay(delayTime);
